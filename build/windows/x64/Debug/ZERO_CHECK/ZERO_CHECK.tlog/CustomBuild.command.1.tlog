@@ -1,0 +1,10 @@
+^D:\MOBILE-APP-TEST\FLUTTER_FIREBASE\BUILD\WINDOWS\CMAKEFILES\D4F2B5875A89B5CECD89BEAF0CED2638\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/mobile-app-test/flutter_firebase/windows -BD:/mobile-app-test/flutter_firebase/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/mobile-app-test/flutter_firebase/build/windows/flutter_firebase.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

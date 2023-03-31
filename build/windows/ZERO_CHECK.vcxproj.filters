@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\mobile-app-test\flutter_firebase\build\windows\CMakeFiles\d4f2b5875a89b5cecd89beaf0ced2638\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8B774558-7B7C-3932-A2EB-EB1E495BAFD2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
